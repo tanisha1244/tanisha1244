@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Aditya.</h2>
+<h2> Hey there! I'm Tanisha Singhal.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -42,8 +42,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="linkedin.com/in/tanisha-singhal-312657201"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-singhaltanisha26@gmail.com.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="linkedin.com/in/tanisha-singhal-312657201"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tanisha%20Singhal-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:singhaltanisha26@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhaltanisha26@gmail.com.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [AVS1508](https://github.com/tanisha1244)
